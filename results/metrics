@@ -1,0 +1,5 @@
+metric,value,unit
+RMSE,262.0264191533589,kN
+R2,-4.7370642007595976,-
+Peak force error,83.65794594228915,%
+Energy ratio,3.314951190967888,model / experiment
